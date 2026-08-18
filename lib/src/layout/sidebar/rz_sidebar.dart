@@ -3,6 +3,7 @@ import 'package:iconsax/iconsax.dart';
 import 'package:rz_library_utilities/rz_library_utilities.dart';
 import 'package:rz_template_set_1/src/theme/rz_template_theme.dart';
 import 'package:rz_theme_set_1/rz_theme_set_1.dart';
+import 'package:rz_widget_set_basic/rz_widget_set_basic.dart';
 import 'menu/rz_menu_item.dart';
 
 class RzSidebar extends StatelessWidget {
@@ -22,11 +23,11 @@ class RzSidebar extends StatelessWidget {
             children: [
               SizedBox(height: RzTheme.size.smGet),
               /// Image
-              CircularImage(
+              RzCircularImage(
                 width: 100,
                 height: 100,
                 padding: 2,
-                imageType: ImageType.asset,
+                imageType: RzImageType.asset,
                 image: ImageString.assetImage.profileImage,
                 backgroundColor: Colors.transparent,
               ),

@@ -4,6 +4,7 @@ import 'package:iconsax/iconsax.dart';
 import 'package:responsive_builder_kit/responsive_builder_kit.dart';
 import 'package:rz_library_utilities/rz_library_utilities.dart';
 import 'package:rz_theme_set_1/rz_theme_set_1.dart';
+import 'package:rz_widget_set_basic/rz_widget_set_basic.dart';
 
 class RzHeader extends StatelessWidget implements PreferredSizeWidget {
   const RzHeader({super.key, this.scaffoldKey});
@@ -60,11 +61,11 @@ class RzHeader extends StatelessWidget implements PreferredSizeWidget {
             Row(
               children: [
                 /// User image
-                RoundedImage(
+                RzRoundedImage(
                   width: 40,
                   height: 40,
                   padding: 2,
-                  imageType: ImageType.asset,
+                  imageType: RzImageType.asset,
                   image: ImageString.assetImage.profileImage,
                 ),
                 SizedBox(width: RzTheme.size.smGet,),

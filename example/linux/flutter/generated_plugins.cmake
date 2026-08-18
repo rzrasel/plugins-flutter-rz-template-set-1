@@ -7,9 +7,11 @@ list(APPEND FLUTTER_PLUGIN_LIST
   rz_library_utilities
   rz_template_set_1
   rz_theme_set_1
+  rz_widget_set_basic
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
+  jni
 )
 
 set(PLUGIN_BUNDLED_LIBRARIES)
