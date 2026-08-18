@@ -60,12 +60,12 @@ class RzHeader extends StatelessWidget implements PreferredSizeWidget {
             Row(
               children: [
                 /// User image
-                RzRoundedImage(
+                RoundedImage(
                   width: 40,
                   height: 40,
                   padding: 2,
-                  imageType: RzImageType.asset,
-                  image: RzImageString.assetImage.profileImage,
+                  imageType: ImageType.asset,
+                  image: ImageString.assetImage.profileImage,
                 ),
                 SizedBox(width: RzTheme.size.smGet,),
 

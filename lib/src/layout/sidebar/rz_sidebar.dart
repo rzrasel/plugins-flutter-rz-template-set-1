@@ -22,12 +22,12 @@ class RzSidebar extends StatelessWidget {
             children: [
               SizedBox(height: RzTheme.size.smGet),
               /// Image
-              RzCircularImage(
+              CircularImage(
                 width: 100,
                 height: 100,
                 padding: 2,
-                imageType: RzImageType.asset,
-                image: RzImageString.assetImage.profileImage,
+                imageType: ImageType.asset,
+                image: ImageString.assetImage.profileImage,
                 backgroundColor: Colors.transparent,
               ),
               SizedBox(height: RzTheme.size.spaceBetweenItemGet),
