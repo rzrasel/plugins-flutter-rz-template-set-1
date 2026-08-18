@@ -24,7 +24,7 @@ dependencies:
   rz_library_utilities:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-library-utilities.git
-      ref: vref-1.0.9
+      ref: vref-1.0.10
   rz_theme_set_1:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-theme-set-1.git
