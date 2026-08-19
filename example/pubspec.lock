@@ -491,8 +491,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "vref-1.0.11"
-      resolved-ref: "52cf21bc5de79c6e28f5f2d98f22729ebdcbab8c"
+      ref: "vref-1.0.1"
+      resolved-ref: "586fecbb2da5d1ef658c3372408d2587ea0a108f"
       url: "https://github.com/rzrasel/plugins-flutter-rz-library-utilities.git"
     source: git
     version: "0.0.1"
