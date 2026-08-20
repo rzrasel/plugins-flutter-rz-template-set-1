@@ -1,7 +1,8 @@
 name: rz_template_set_1
 description: "flutter-plugins-rz-template-set-1 — A Flutter plugin that provides centralized theme configuration with reusable access to color palettes, text styles, and size constants, helping maintain consistent design across Flutter applications."
-version: 0.0.1
-homepage:
+version: 1.0.0
+repository: https://github.com/rzrasel/plugins-flutter-rz-template-set-1
+homepage: https://github.com/rzrasel/plugins-flutter-rz-template-set-1
 
 publish_to: none
 
@@ -24,7 +25,7 @@ dependencies:
   rz_library_utilities:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-library-utilities.git
-      ref: vref-1.0.1
+      ref: vref-1.0.2
   rz_widget_set_basic:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-widget-set-basic.git
