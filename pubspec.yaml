@@ -29,7 +29,7 @@ dependencies:
   rz_widget_set_basic:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-widget-set-basic.git
-      ref: vref-1.0.5
+      ref: vref-1.0.6
   rz_theme_set_1:
     git:
       url: https://github.com/rzrasel/plugins-flutter-rz-theme-set-1.git
