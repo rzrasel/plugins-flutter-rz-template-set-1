@@ -491,8 +491,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "vref-1.0.2"
-      resolved-ref: "0bda16f27cefb738fe3664c8ff21d0c3d770de77"
+      ref: "vref-1.0.3"
+      resolved-ref: "3cfa8a98b5daccba0b4516a6d18e80df69e4bdef"
       url: "https://github.com/rzrasel/plugins-flutter-rz-library-utilities.git"
     source: git
     version: "1.0.0"
@@ -516,8 +516,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "vref-1.0.6"
-      resolved-ref: "15ba104bd2ad0964c7996be78b83a6cb10f28228"
+      ref: "vref-1.0.7"
+      resolved-ref: a3189b51d17190b6bec91ce1c7d0d1720e4fbffa
       url: "https://github.com/rzrasel/plugins-flutter-rz-widget-set-basic.git"
     source: git
     version: "1.0.0"
