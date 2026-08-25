@@ -451,8 +451,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: "vref-1.0.1"
-      resolved-ref: f90dc03f6308585e2480e44ba45cb0672478f39f
+      ref: "vref-1.0.2"
+      resolved-ref: "565a47a7755a1eae7d9498d094747d3e1fbf4496"
       url: "https://github.com/rzrasel/plugins-flutter-rz-advance-widget.git"
     source: git
     version: "1.0.0"
